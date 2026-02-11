@@ -1,0 +1,11 @@
+{
+  "name": "xpost",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "xpost": "./bin/xpost.js"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}

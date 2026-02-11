@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "content": "Shipped dark mode for Caloura today. Took 3 hours, not 3 days. The trick: HSL color system from day 1.",
+    "contentType": "build-log",
+    "threadParts": null,
+    "scheduledFor": "2025-01-13",
+    "status": "queued",
+    "createdAt": "2025-01-12T10:00:00.000Z",
+    "batchId": null
+  },
+  {
+    "id": 2,
+    "content": "Solo devs: do you use analytics in your apps? I've been shipping without any and wondering if I'm flying blind.",
+    "contentType": "question",
+    "threadParts": null,
+    "scheduledFor": "2025-01-14",
+    "status": "queued",
+    "createdAt": "2025-01-12T10:00:00.000Z",
+    "batchId": null
+  },
+  {
+    "id": 3,
+    "threadParts": [
+      "1/ I shipped 2 apps in 6 months as a solo dev. Here's what actually worked:",
+      "2/ Pick boring tech. SwiftUI for me. No time wasted on framework drama. Just building.",
+      "3/ Ship the ugly version first. My first Macrovue release looked terrible. Users didn't care — they wanted the data.",
+      "4/ Talk to users before writing code. 80% of my planned features were wrong.",
+      "5/ Build in public. Not for followers — for accountability. Hard to quit when people are watching."
+    ],
+    "content": null,
+    "contentType": "thread",
+    "scheduledFor": "2025-01-15",
+    "status": "queued",
+    "createdAt": "2025-01-12T10:00:00.000Z",
+    "batchId": "batch-example"
+  }
+]
